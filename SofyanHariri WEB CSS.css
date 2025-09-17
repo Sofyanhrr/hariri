@@ -1,0 +1,282 @@
+.buttonnav:hover {
+    color: #740808;
+}
+
+.navigasi {
+    color: black;
+    font-size: small;
+    font-weight: 500;
+    padding-left: 20px;
+    font-family: poppins;
+}
+
+
+.judul-atas {
+    background-color: #740808;
+    height: 30px;
+    font-style: italic;
+    font-size: 15px; 
+}
+
+
+.nav-link:hover {
+    color: #740808 !important;
+}
+
+.dropdown-item {
+    font-size: 11px;
+}
+
+.dropdown-item:hover {
+    color: #740808 !important;
+}
+
+.colomh1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.parafcolom {
+    text-align: center;
+}
+
+.armada1.col-lg-7 {
+    height: 500px;
+    border: none;
+}
+
+.armada1.col-lg-5 {
+    height: 500px;
+    border: none;
+}
+
+.cardrounded {
+    width: 100%;
+    height: 185px;
+    border-radius: 15px;
+}
+
+.cardrounded:hover {
+    box-shadow: 0px 1px 10px #5a5353;
+}
+
+.cardrounded1 {
+    width: 450px;
+    height: 435px;
+    border-radius: 15px;
+}
+
+.cardrounded1:hover {
+    box-shadow: 0px 1px 10px #5a5353;
+}
+
+.armada.col-lg-4 {
+    height: 250px;
+    border: none;
+}
+
+.Kalkulator {
+    background-color: #740808;
+    font-size: 15px;
+    font-weight: bold;
+    color: aliceblue;
+    border: 10px;
+    border-radius: 20px;
+    height: 40px;
+    width: 300px;
+}
+
+.Kalkulator:hover {
+    background-color: rgb(236, 161, 161);
+    color: #740808;
+    border: 10px;
+}
+
+.rekomen.container-fluid.py-5 {
+    background-color: #971212;
+}
+
+.textcard {
+    color: aliceblue;
+}
+
+.cardd{
+    width: 250px;
+    background-color: #971212;
+}
+
+.foto{
+    background-image: url(FtoWEB/rekomen1.png);
+    width: 250px;
+    height: 375px;
+    background-size: cover;
+}
+
+.foto:hover{
+    background-image: url(FtoWEB/hover1.png);
+    transition: .5s;
+}
+
+.foto2{
+    background-image: url(FtoWEB/rekomen2.png);
+    width: 250px;
+    height: 375px;
+    background-size: cover;
+}
+
+.foto2:hover{
+    background-image: url(FtoWEB/hover2.png);
+    transition: .5s;
+}
+
+.foto3{
+    background-image: url(FtoWEB/rekomen3.png);
+    width: 250px;
+    height: 375px;
+    background-size: cover;
+}
+
+.foto3:hover{
+    background-image: url(FtoWEB/hover4.png);
+    transition: .5s;
+}
+
+.foto4{
+    background-image: url(FtoWEB/rekomen4.png);
+    width: 250px;
+    height: 375px;
+    background-size: cover;
+}
+
+.foto4:hover{
+    background-image: url(FtoWEB/hover3.png);
+    transition: .5s;
+}
+
+.card-text.web {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.ig.card-img-top {
+    width: 355px;
+    height: 355px;
+    object-fit: cover;
+}
+
+.bi.bi-instagram.ms-2 {
+    font-size: 30px;
+    vertical-align: middle;
+}
+
+.igigan {
+    text-align: right;
+    font-size: 10px;
+}
+
+.blog.container-fluid {
+    height: 500px;
+    background-color: #f4f5f7;
+}
+
+.h2blog.pt-5 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.blogcard {
+    width: 355px;
+    height: 355px;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.pic.card-img-top {
+    width: 355px;
+    height: 355px;
+    object-fit: cover;
+}
+
+.blogcard:hover img{
+    transform: scale(1.1);
+    transition: .3s;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 40%;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.486);
+}
+
+.parafblog {
+    font-size: 11px;
+    color: aliceblue;  
+    text-align: left;  
+}
+
+.parafblog1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: left;
+}
+
+.footer.py-4 {
+    background-color: #740808;
+}
+
+.gambar1 {
+    height: 50px;
+    margin-left: -10px;
+}
+
+.gambar2 {
+    height: 50px;
+    float: right;
+}
+
+.bawah {
+    color: aliceblue;
+}
+
+.h1bawah {
+    font-size: 16px;
+}
+
+.pbawah {
+    font-size: 14;
+}
+
+.h1bawah1 {
+    font-size: 16px;
+    text-align: right;
+    color: aliceblue;
+}
+
+.pbawah1 {
+    font-size: 14px;
+    text-align: right;
+    color: aliceblue;
+}
+
+.footer2 {
+    text-align: center;
+    font-size: 14px;
+    color: aliceblue;
+}
+
+.gambar4 {
+    width: 50%;
+}
+
+.copyright {
+    text-align: center;
+    color: aliceblue;
+    font-size: 14px;
+}
+
